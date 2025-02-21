@@ -1,4 +1,4 @@
-class _3LongestSubstringWithoutRepeating {
+public class _3LongestSubstringWithoutRepeating {
     public static int lengthOfLongestSubstring(String A) {
         if(A.length() == 0){
             return 0;

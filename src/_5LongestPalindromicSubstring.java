@@ -1,4 +1,4 @@
-class _5LongestPalindromicSubstring {
+public class _5LongestPalindromicSubstring {
     
     public String longestPalindrome(String s) {
         int ans = 0;
