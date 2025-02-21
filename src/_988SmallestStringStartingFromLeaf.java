@@ -1,3 +1,5 @@
+import com.leetcode.TreeNode;
+
 public class _988SmallestStringStartingFromLeaf {
 
     public class TreeNode {

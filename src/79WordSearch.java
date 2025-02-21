@@ -1,4 +1,4 @@
-public class _79WordSearch {
+class _79WordSearch {
     public boolean exist(char[][] board, String word) {
         boolean[][] isVisited = new boolean[board.length][board[0].length];
 
